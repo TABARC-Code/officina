@@ -3,10 +3,8 @@
 Author: TABARC-Code
 Repository: https://github.com/TABARC-Code/
 
-GitHub description (paste into repo settings): A merged-persona invention council for Claude. Six historical minds that argue with your idea instead of agreeing with it.
-
 *officina* is Latin for workshop. Not a gallery. A workshop. Things go in raw and come out either sharper or binned.
-
+---
 I built this because most "brainstorm with me" skills are useless. Ask an AI to help invent something and nine times out of ten it just cheers you on, which is nice for morale and terrible for the actual idea.
 
 Officina doesn't do that. Drop in a concept, half-formed or fully cooked, and it gets pushed through six thinking styles at once: Leonardo da Vinci, Isaac Newton, Nikola Tesla, Buckminster Fuller, Benjamin Franklin, and Vagadesamaso (a build-first modern maker archetype, deliberately not tied to any one real living person). They don't take turns being polite. Each lens is paired with the one built specifically to catch its blind spot. Tesla's leaps get checked by Newton's rigour. Fuller's whole-systems thinking gets pulled back to earth by Franklin. Nothing reasons alone.
